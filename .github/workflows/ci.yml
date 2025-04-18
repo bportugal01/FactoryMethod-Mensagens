@@ -1,8 +1,3 @@
-bash
-CopiarEditar
-.github/workflows/ci.yml
-Com o seguinte conteúdo (para Python):
-yaml
 CopiarEditar
 name: CI Pipeline
  
